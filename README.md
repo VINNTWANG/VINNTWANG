@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VINNTWANG, indie hacker& founder of @Dragonfly
+- 👋 Hi, I’m @VINNTWANG, An indie hacker and founder of @Dragonfly
 - 👀 I’m interested in $$
 - 🌱 I’m currently learning datascience: economics, politics,  AI-based molecular biology 
 - 💞️ I’m looking to collaborate on $$$ 
