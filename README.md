@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @VINNTWANG, An indie hacker and founder of @Dragonfly
-- 👀 I’m interested in $$
-- 🌱 I’m currently learning datascience: economics, politics,  AI-based molecular biology 
+- 👋 Hi, I’m @cardib, An indie hacker and founder of @Dragonfly @orion
+- 👀 I’m interested in indie development
+- 🌱 I’m currently learning datascience, ecopolitics, AI-based molecular biology 
 - 💞️ I’m looking to collaborate on $$$ 
 - 📫 How to reach me soap@fastemail.io
-- 😄 Pronouns: TK
+- 😄 Pronouns: cd
 - ⚡ Fun fact: I have ADHD and ASD 
 
 <!---
