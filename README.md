@@ -44,7 +44,7 @@ I build tools to solve problems, from academic research to family connection.
 | **🏠 王家记忆** | `WeChat MP` | **Live** ✅ | A private WeChat Mini Program for intimate family photo/life sharing. |
 | **🧬 Lyra** | `Mobile App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
 | **🌠 Nebula** | `Research` | *In Dev* 🔬 | An interactive visualization suite for **RNA-seq & Multi-omics** (ChIP/ATAC) data. |
-| **🔫 Project FPS** | `Game` | *Planning* 🎮 | My first FPS game, aiming for a **Steam** release. |
+| **🔫 Ruin Reapers** | `Game` | *Planning* 🎮 | My first indie FPS game, aiming for a **Steam** release. |
 
 ---
 
