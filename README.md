@@ -33,12 +33,18 @@ I define myself as a **full-stack Life Science Student**, capable of generating 
 
 I love building products that solve real problems or just for fun.
 
+### 🚀 Indie Projects & Products
+
+I build tools to solve problems, from academic research to family connection.
+
 | Project | Type | Status | Description |
 | :--- | :--- | :--- | :--- |
+| **🐹 Hyrax** | `Browser Ext` | **Open Source** 🔓 | A PubMed companion extension for instant article metadata & impact factor visualization. |
 | **🌌 Orion** | `iOS App` | **Live** ✅ | An ADHD-friendly companion app for focus & task management. |
+| **🏠 Wang Family Memory** | `WeChat MP` | **Live** ✅ | A private WeChat Mini Program for intimate family photo/life sharing. |
 | **🧬 Lyra** | `Mobile App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
-| **🔫 Project FPS** | `Game` | *Planning* 🎮 | My first FPS game, aiming for a **Steam** release. |
 | **🧠 ChromNeuro** | `Research` | *In Dev* 🔬 | Visualization tool for spatial metabolic trajectories. |
+| **🔫 Project FPS** | `Game` | *Planning* 🎮 | My first FPS game, aiming for a **Steam** release. |
 
 ---
 
