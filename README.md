@@ -29,9 +29,6 @@ I define myself as a **full-stack Life Science Student**, capable of generating 
 
 ---
 
-### 🚀 Indie Projects & Products
-
-I love building products that solve real problems or just for fun.
 
 ### 🚀 Indie Projects & Products
 
