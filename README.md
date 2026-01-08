@@ -41,9 +41,9 @@ I build tools to solve problems, from academic research to family connection.
 | :--- | :--- | :--- | :--- |
 | **🐹 Hyrax** | `Browser Ext` | **Open Source** 🔓 | A PubMed companion extension for instant article metadata & impact factor visualization. |
 | **🌌 Orion** | `iOS App` | **Live** ✅ | An ADHD-friendly companion app for focus & task management. |
-| **🏠 Wang Family Memory** | `WeChat MP` | **Live** ✅ | A private WeChat Mini Program for intimate family photo/life sharing. |
+| **🏠 王家记忆** | `WeChat MP` | **Live** ✅ | A private WeChat Mini Program for intimate family photo/life sharing. |
 | **🧬 Lyra** | `Mobile App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
-| **🧠 ChromNeuro** | `Research` | *In Dev* 🔬 | Visualization tool for spatial metabolic trajectories. |
+| **🌠 Nebula** | `Research` | *In Dev* 🔬 | An interactive visualization suite for **RNA-seq & Multi-omics** (ChIP/ATAC) data. |
 | **🔫 Project FPS** | `Game` | *Planning* 🎮 | My first FPS game, aiming for a **Steam** release. |
 
 ---
