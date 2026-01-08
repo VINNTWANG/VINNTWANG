@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @cardib, An indie hacker and founder of @Dragonfly @orion
-- 👀 I’m interested in indie development
-- 🌱 I’m currently learning datascience, ecopolitics, AI-based molecular biology 
-- 💞️ I’m looking to collaborate on $$$ 
-- 📫 How to reach me soap@fastemail.io
-- 😄 Pronouns: cd
-- ⚡ Fun fact: I have ADHD and ASD 
+- 👋 Hi, I’m @Zi-hao Wamg, An indie hacker and creater of @orion @lyra @hyrax
+- 👀 I’m really interested in FPS game development, so I'm working on my indie game and it planned be released before 2028. 
+- 🌱 I’m currently learning how to marketing my products, and myself, also I’m learmomg to be a YouTuber, additionally, web3 marketing  
+- 💞️ I’m looking to collaborate on myself and cash
+- 📫 How to reach me: zihaowangs@proton.me
+- 😄 Pronouns: soap
+- ⚡ Fun fact: I........
 
 <!---
 VINNTWANG/VINNTWANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
