@@ -1,12 +1,58 @@
-- 👋 Hi, I’m @Zi-hao Wamg, An indie hacker and creater of @orion @lyra @hyrax
-- 👀 I’m really interested in FPS game development, so I'm working on my indie game and it planned be released before 2028. 
-- 🌱 I’m currently learning how to marketing my products, and myself, also I’m learmomg to be a YouTuber, additionally, web3 marketing  
-- 💞️ I’m looking to collaborate on myself and cash
-- 📫 How to reach me: zihaowangs@proton.me
-- 😄 Pronouns: soap
-- ⚡ Fun fact: I........
+### Hi there, I'm Zihao Wang (VINNTWANG) 👋
 
-<!---
-VINNTWANG/VINNTWANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+  **Ph.D. Candidate @ Fudan University** | **Hybrid Researcher** | **Indie Developer**
+  
+  <a href="mailto:zihaowangs@proton.me">
+    <img src="https://img.shields.io/badge/Email-zihaowangs%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email" />
+  </a>
+  <a href="https://soap628.com">
+    <img src="https://img.shields.io/badge/Website-soap628.com-lightgrey?style=flat-square&logo=google-chrome" alt="Website" />
+  </a>
+  
+</div>
+
+---
+
+### 🧬 The Hybrid Researcher: Wet & Dry
+
+I define myself as a **full-stack Life Science Student**, capable of generating data at the bench and decoding it at the terminal.
+
+| **🧪 Wet Lab Arsenal** (Experimental) | **💻 Dry Lab & Dev** (Computational) |
+| :--- | :--- |
+| **Molecular:** ChIP, Co-IP, WB, qPCR, Molecular Cloning | **Languages:** Python, R, Shell, Swift, C# |
+| **Cellular:** Confocal Microscopy, Stem Cell Differentiation | **Bioinformatics:** RNA-seq/ChIP-seq Pipelines, Multi-omics Integration |
+| **In Vivo:** Stereotactic Injection, Animal Behavior, Disease Models | **AI & Dev:** LLM Agents (Grok/Claude), App Development, Web3 |
+
+> *"From pipetting to prompt engineering, I build tools to accelerate discovery."*
+
+---
+
+### 🚀 Indie Projects & Products
+
+I love building products that solve real problems or just for fun.
+
+| Project | Type | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **🌌 Orion** | `iOS App` | **Live** ✅ | An ADHD-friendly companion app for focus & task management. |
+| **🧬 Lyra** | `Mobile App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
+| **🔫 Project FPS** | `Game` | *Planning* 🎮 | My first FPS game, aiming for a **Steam** release. |
+| **🧠 ChromNeuro** | `Research` | *In Dev* 🔬 | Visualization tool for spatial metabolic trajectories. |
+
+---
+
+### 🎯 Beyond the Lab: Creator Mode
+
+When I'm not doing research, I explore the digital frontier:
+
+* **🎬 Content Creation:** Documenting my journey to become a **YouTuber**.
+* **💎 Web3 & Marketing:** Exploring decentralized markets and learning **Personal & Product Marketing**.
+* **🕹️ Game Design:** Passionate about FPS mechanics; building my first shooter on Steam.
+
+---
+
+### 📅 Coding Frequency
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINNTWANG&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" />
+</div>
