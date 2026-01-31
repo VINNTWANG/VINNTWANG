@@ -42,7 +42,7 @@ I build tools to solve problems, from academic research to family connection.
 | **🧬 Lyra** | `Mobile App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
 | **🌠 Nebula** | `Research` | *In Dev* 🔬 | An interactive visualization suite for **RNA-seq & Multi-omics** (ChIP/ATAC) data. |
 | **🔫 Ruin Reapers** | `Game` | *Planning* 🎮 | My first indie FPS game, aiming for a **Steam** release. |
-
+| **📒 Liqunn** | `Tool` | **Open Source** 🔓 | A comprehensive research & project manage and recording system. | 
 ---
 
 ### 🎯 Beyond the Lab: Creator Mode
