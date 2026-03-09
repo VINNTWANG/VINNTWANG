@@ -39,28 +39,17 @@ I build tools to solve problems, from academic research to family connection.
 | **🐹 Hyrax** | `Browser Ext` | **Open Source** 🔓 | A PubMed companion extension for instant article metadata & impact factor visualization. |
 | **🌌 Orion** | `iOS App` | **Live** ✅ | An ADHD-friendly companion app for focus & task management. |
 | **🏠 王家记忆** | `WeChat MP` | **Live** ✅ | A private WeChat Mini Program for intimate family photo/life sharing. |
+| **🌍 [OffshoreHub](https://github.com/VINNTWANG/OffshoreHub)** | `iOS App` | **Open Source** 🔓 | Offshore company registration comparison — 12 jurisdictions, intelligent quiz, 5-year cost calculator & agent directory. |
+| **🕋 [HajjPlanner](https://github.com/VINNTWANG/HajjPlanner)** | `iOS App` | **Open Source** 🔓 | Hajj & Umrah pilgrimage planner — countdown timer, cost estimator, packing checklist & agency directory. |
+| **🛂 [VisaChecker](https://github.com/VINNTWANG/VisaChecker)** | `iOS App` | **Open Source** 🔓 | Visa requirement checker — scoring system, document preparation & exportable reports. |
+| **🎬 [CreatorHub](https://github.com/VINNTWANG/CreatorHub)** | `iOS App` | **Open Source** 🔓 | Content creator toolkit — dashboard, platform comparison & monetization calculator. |
+| **🏥 [FertilityHub](https://github.com/VINNTWANG/FertilityHub)** | `iOS App` | **Open Source** 🔓 | Fertility clinic comparison — clinic search & favorites, cost analysis & policy highlights. |
+| **💰 [FundCalc](https://github.com/VINNTWANG/FundCalc)** | `iOS App` | **Open Source** 🔓 | Budget & fund calculator — yearly breakdown, chart visualization & report generation. |
+| **👶 [SurrogacyHub](https://github.com/VINNTWANG/SurrogacyHub)** | `iOS App` | **Open Source** 🔓 | Surrogacy information hub — country comparison, favorites & agency directory. |
 | **🧬 Lyra** | `Mobile App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
 | **🌠 Nebula** | `Research` | *In Dev* 🔬 | An interactive visualization suite for **RNA-seq & Multi-omics** (ChIP/ATAC) data. |
 | **🔫 Ruin Reapers** | `Game` | *Planning* 🎮 | My first indie FPS game, aiming for a **Steam** release. |
 | **📒 Liqunn** | `Tool` | **Open Source** 🔓 | A comprehensive research & project manage and recording system. |
-
----
-
-### 🧰 FBP Toolbox — Native iOS Utility Apps
-
-A collection of **7 native SwiftUI iOS apps** built for real-world decision-making. Each app features MVVM architecture, design system tokens, smooth animations, haptic feedback, and full accessibility support.
-
-| App | Repo | Description |
-| :--- | :--- | :--- |
-| **🌍 [OffshoreHub](https://github.com/VINNTWANG/OffshoreHub)** | `iOS` | Global offshore company registration comparison — 12 jurisdictions, intelligent quiz, 5-year cost calculator, VS comparison, banking guide & 10 service agents with contact info. |
-| **🕋 [HajjPlanner](https://github.com/VINNTWANG/HajjPlanner)** | `iOS` | Hajj & Umrah pilgrimage planner — countdown timer, cost estimator with save history, packing checklist with search & category collapse, ritual guide & agency directory. |
-| **🛂 [VisaChecker](https://github.com/VINNTWANG/VisaChecker)** | `iOS` | Visa requirement checker & document preparation tool — scoring system, multi-phase progress tracking, file type icons & exportable reports. |
-| **🎬 [CreatorHub](https://github.com/VINNTWANG/CreatorHub)** | `iOS` | Content creator toolkit — dashboard with time range picker, section headers with icons, form validation & scroll animations. |
-| **🏥 [FertilityHub](https://github.com/VINNTWANG/FertilityHub)** | `iOS` | Fertility clinic comparison platform — clinic search & favorites, detailed clinic sheets, cost analysis with animated charts & policy highlights. |
-| **💰 [FundCalc](https://github.com/VINNTWANG/FundCalc)** | `iOS` | Budget & fund calculator — swipe-to-delete entries, expand/collapse yearly breakdown, input validation, chart visualization & report generation. |
-| **👶 [SurrogacyHub](https://github.com/VINNTWANG/SurrogacyHub)** | `iOS` | Surrogacy information hub — country search & comparison, favorites system, agency directory with detail sheets & ShareLink integration. |
-
-> **Tech Stack:** SwiftUI · iOS 17+ · MVVM · Swift Charts · XcodeGen · @AppStorage · UserDefaults · Haptics · Accessibility
 ---
 
 ### 🎯 Beyond the Lab: Creator Mode
