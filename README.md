@@ -42,7 +42,25 @@ I build tools to solve problems, from academic research to family connection.
 | **🧬 Lyra** | `Mobile App` | *In Dev* 🚧 | A Bio-hacking tool for personal health data quantification. |
 | **🌠 Nebula** | `Research` | *In Dev* 🔬 | An interactive visualization suite for **RNA-seq & Multi-omics** (ChIP/ATAC) data. |
 | **🔫 Ruin Reapers** | `Game` | *Planning* 🎮 | My first indie FPS game, aiming for a **Steam** release. |
-| **📒 Liqunn** | `Tool` | **Open Source** 🔓 | A comprehensive research & project manage and recording system. | 
+| **📒 Liqunn** | `Tool` | **Open Source** 🔓 | A comprehensive research & project manage and recording system. |
+
+---
+
+### 🧰 FBP Toolbox — Native iOS Utility Apps
+
+A collection of **7 native SwiftUI iOS apps** built for real-world decision-making. Each app features MVVM architecture, design system tokens, smooth animations, haptic feedback, and full accessibility support.
+
+| App | Repo | Description |
+| :--- | :--- | :--- |
+| **🌍 [OffshoreHub](https://github.com/VINNTWANG/OffshoreHub)** | `iOS` | Global offshore company registration comparison — 12 jurisdictions, intelligent quiz, 5-year cost calculator, VS comparison, banking guide & 10 service agents with contact info. |
+| **🕋 [HajjPlanner](https://github.com/VINNTWANG/HajjPlanner)** | `iOS` | Hajj & Umrah pilgrimage planner — countdown timer, cost estimator with save history, packing checklist with search & category collapse, ritual guide & agency directory. |
+| **🛂 [VisaChecker](https://github.com/VINNTWANG/VisaChecker)** | `iOS` | Visa requirement checker & document preparation tool — scoring system, multi-phase progress tracking, file type icons & exportable reports. |
+| **🎬 [CreatorHub](https://github.com/VINNTWANG/CreatorHub)** | `iOS` | Content creator toolkit — dashboard with time range picker, section headers with icons, form validation & scroll animations. |
+| **🏥 [FertilityHub](https://github.com/VINNTWANG/FertilityHub)** | `iOS` | Fertility clinic comparison platform — clinic search & favorites, detailed clinic sheets, cost analysis with animated charts & policy highlights. |
+| **💰 [FundCalc](https://github.com/VINNTWANG/FundCalc)** | `iOS` | Budget & fund calculator — swipe-to-delete entries, expand/collapse yearly breakdown, input validation, chart visualization & report generation. |
+| **👶 [SurrogacyHub](https://github.com/VINNTWANG/SurrogacyHub)** | `iOS` | Surrogacy information hub — country search & comparison, favorites system, agency directory with detail sheets & ShareLink integration. |
+
+> **Tech Stack:** SwiftUI · iOS 17+ · MVVM · Swift Charts · XcodeGen · @AppStorage · UserDefaults · Haptics · Accessibility
 ---
 
 ### 🎯 Beyond the Lab: Creator Mode
